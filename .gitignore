@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# FastF1 cache (large, reproducible by re-running fetch_data.py)
+data/raw/cache/
+
+# Model (reproducible by re-running model.py)
+models/
+
+# OS
+.DS_Store

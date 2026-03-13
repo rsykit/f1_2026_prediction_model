@@ -1,0 +1,21 @@
+rank,driver,team,avg_points,std_points,p10,p90
+1,HAM,Ferrari,383.6,103.4,263.0,535.0
+2,VER,Red Bull Racing,332.3,87.7,216.0,447.0
+3,LEC,Ferrari,310.0,71.2,232.0,409.0
+4,PIA,McLaren,307.7,84.9,219.0,433.0
+5,NOR,McLaren,291.1,68.4,224.0,393.0
+6,LAW,Red Bull Racing,232.5,48.4,195.0,302.0
+7,RUS,Mercedes,208.1,53.2,145.0,278.0
+8,ANT,Mercedes,184.0,32.7,152.0,221.0
+9,ALO,Aston Martin,51.0,18.8,31.0,75.0
+10,STR,Aston Martin,43.5,15.7,28.0,63.0
+11,SAI,Williams,31.0,18.1,14.0,52.0
+12,ALB,Williams,19.6,10.3,11.0,29.0
+13,GAS,Alpine,10.2,8.6,3.0,19.0
+14,DOO,Alpine,5.9,4.5,2.0,12.0
+15,TSU,Racing Bulls,5.5,4.0,1.0,11.0
+16,OCO,Haas,3.8,3.7,0.0,9.0
+17,HAD,Racing Bulls,3.7,3.4,0.0,9.0
+18,BEA,Haas,0.6,1.1,0.0,2.0
+19,HUL,Audi,0.1,0.4,0.0,0.0
+20,BOR,Audi,0.1,0.4,0.0,0.0
